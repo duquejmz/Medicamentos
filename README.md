@@ -1,6 +1,6 @@
-# medicamentos
+# Medicamentos
 
-A new Flutter project.
+A new Flutter project on how to list Drug API from an external URL.
 
 ## Getting Started
 
